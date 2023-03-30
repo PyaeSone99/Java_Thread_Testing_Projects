@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/inner-thread-communication/inner-thread-communication.iml" filepath="$PROJECT_DIR$/inner-thread-communication/inner-thread-communication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lock-consumer-producer/lock-consumer-producer.iml" filepath="$PROJECT_DIR$/lock-consumer-producer/lock-consumer-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lock-demo1/lock-demo1.iml" filepath="$PROJECT_DIR$/lock-demo1/lock-demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread.iml" filepath="$PROJECT_DIR$/thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-demo-1/thread-demo-1.iml" filepath="$PROJECT_DIR$/thread-demo-1/thread-demo-1.iml" />
+    </modules>
+  </component>
+</project>
